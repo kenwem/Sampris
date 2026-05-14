@@ -1,0 +1,6 @@
+{
+  "name": "Sampris Nigeria Limited",
+  "description": "Indigenous construction and civil engineering company specialized in building, infrastructure, and environmental development.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["Construction", "Civil Engineering", "Project Management"]
+}
